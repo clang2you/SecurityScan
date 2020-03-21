@@ -15,3 +15,4 @@ C:\Users\Lex Chen\Documents\Visual Studio 2013\Projects\ProductionSecurityContro
 C:\Users\Lex Chen\Documents\Visual Studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\bin\Debug\NPOI.OOXML.dll
 C:\Users\Lex Chen\Documents\Visual Studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\bin\Debug\Reader.dll
 C:\Users\Lex Chen\documents\visual studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\bin\Debug\UHFReader18CSharp.dll
+C:\Users\Lex Chen\documents\visual studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\obj\Debug\ProductionSecurityControlSystem.csprojResolveAssemblyReference.cache
