@@ -1,7 +1,6 @@
 c:\users\lex chen\documents\visual studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\bin\Debug\ProductionSecurityControlSystem.exe.config
 c:\users\lex chen\documents\visual studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\bin\Debug\ProductionSecurityControlSystem.exe
 c:\users\lex chen\documents\visual studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\bin\Debug\ProductionSecurityControlSystem.pdb
-c:\users\lex chen\documents\visual studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\obj\Debug\ProductionSecurityControlSystem.csprojResolveAssemblyReference.cache
 c:\users\lex chen\documents\visual studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\obj\Debug\ProductionSecurityControlSystem.Form1.resources
 c:\users\lex chen\documents\visual studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\obj\Debug\ProductionSecurityControlSystem.Properties.Resources.resources
 c:\users\lex chen\documents\visual studio 2013\Projects\ProductionSecurityControlSystem\ProductionSecurityControlSystem\obj\Debug\ProductionSecurityControlSystem.csproj.GenerateResource.Cache
