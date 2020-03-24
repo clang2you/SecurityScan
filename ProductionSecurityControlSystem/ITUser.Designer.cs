@@ -56,6 +56,7 @@
             this.inCountLed = new LxControl.LxLedControl();
             this.tableLayoutPanel18 = new System.Windows.Forms.TableLayoutPanel();
             this.startStopServiceBtn = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.tableLayoutPanel11 = new System.Windows.Forms.TableLayoutPanel();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
@@ -123,7 +124,6 @@
             this.cbRealWorkant2 = new System.Windows.Forms.CheckBox();
             this.timerInventory = new System.Windows.Forms.Timer(this.components);
             this.totalTime = new System.Windows.Forms.Timer(this.components);
-            this.button1 = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tableLayoutPanel13.SuspendLayout();
@@ -470,6 +470,19 @@
             this.startStopServiceBtn.Text = "启动扫描记录";
             this.startStopServiceBtn.UseVisualStyleBackColor = true;
             this.startStopServiceBtn.Click += new System.EventHandler(this.startStopServiceBtn_Click);
+            // 
+            // button1
+            // 
+            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button1.Font = new System.Drawing.Font("SimSun", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.button1.ForeColor = System.Drawing.Color.Black;
+            this.button1.Location = new System.Drawing.Point(1129, 3);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(114, 38);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "切换用户";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // tabPage2
             // 
@@ -1348,19 +1361,6 @@
             // 
             this.totalTime.Interval = 50;
             this.totalTime.Tick += new System.EventHandler(this.totalTimeDisplay);
-            // 
-            // button1
-            // 
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Font = new System.Drawing.Font("SimSun", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button1.ForeColor = System.Drawing.Color.Black;
-            this.button1.Location = new System.Drawing.Point(1129, 3);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(114, 38);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "切换用户";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // ITUser
             // 
